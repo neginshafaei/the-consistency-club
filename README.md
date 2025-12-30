@@ -1,6 +1,6 @@
 
 # Consistency Club
-**A Real-time Gamified Ranking System built with Next.js 16 & Redis.**
+**A Real-time Gamified Ranking System built with Next.js 16 & Redis.** [Demo](https://the-consistency-club.vercel.app/)
 
 This project is a high-performance showcase of how to implement **Gamification logic** (Daily Streaks & Leaderboards) using **Redis** as a primary in-memory data engine, ensuring sub-millisecond latency.
 
